@@ -1,4 +1,4 @@
-name: ahj-dom
+name: ahj-testing
 
 on:
   push:
